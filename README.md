@@ -1,4 +1,4 @@
-![Screenshot 2024-09-13 140900](https://github.com/user-attachments/assets/56a698a8-4ed9-49d6-92f0-653c76ff4eb5)## EX.NO.4
+## EX.NO.4
  # SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
  ## NAME:Soundarya J
  ## REG NO:212223220108
