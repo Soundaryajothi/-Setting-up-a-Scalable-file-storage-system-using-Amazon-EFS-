@@ -60,7 +60,7 @@ ls
 cat file  # Verify shared access by reading content created in Instance 1
 ```
 ## OUTPUT
-## Creation two EC2 instances in diƯerent availability zones:
+## Creation two EC2 instances in different availability zones:
 ![Screenshot 2024-09-13 104227](https://github.com/user-attachments/assets/32e9e06a-be89-41d6-9b93-d7d01e0070ca)
 
 ![Screenshot 2024-09-13 104550](https://github.com/user-attachments/assets/2be77c54-e611-4c70-bd8a-b969bfff3c04)
